@@ -1,0 +1,7 @@
+<?xml-stylesheet type="text/xsl" href="transform.xslt"?>
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<hash>
+<n type="integer">0</n>
+<results type="array"/>
+<error>N должно быть больше 0!</error>
+</hash>

@@ -1,0 +1,39 @@
+<!-- <?xml-stylesheet type="text/xsl" href="transform.xslt"?>
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<hash>
+<n type="integer">12</n>
+<results type="array">
+<result>
+<value type="integer">1</value>
+<square type="integer">1</square>
+</result>
+<result>
+<value type="integer">5</value>
+<square type="integer">25</square>
+</result>
+<result>
+<value type="integer">6</value>
+<square type="integer">36</square>
+</result>
+</results>
+<error nil="true"/>
+</hash> -->
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <n type="integer">12</n>
+  <results type="array">
+    <result>
+      <value type="integer">1</value>
+      <square type="integer">1</square>
+    </result>
+    <result>
+      <value type="integer">5</value>
+      <square type="integer">25</square>
+    </result>
+    <result>
+      <value type="integer">6</value>
+      <square type="integer">36</square>
+    </result>
+  </results>
+  <error nil="true"/>
+</hash>

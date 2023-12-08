@@ -1,0 +1,8 @@
+<h1>AuthomorphNumbers#input</h1>
+<p>Find me in app/views/authomorph_numbers/input.html.erb</p>
+<%= form_tag("/authomorph_numbers/view.json", :method => "get", remote: true, id: 'n-input-form') do %>
+ <%= label_tag("Enter N") %> <br/>
+ <%= text_field_tag(:n) %> <br/>
+ <%= submit_tag("Calc result", id: 'submit-button') %>
+<% end %> 
+<div id="results"></div>
